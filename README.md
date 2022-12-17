@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://ksenii8.github.io/rsschool-cv/
+https://github.com/Ksenii8/rsschool-cv/blob/rsschool-cv-html
