@@ -9,7 +9,7 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   min-height: 100vh;
   margin: 0; 
   padding: 0;
@@ -86,4 +86,13 @@ body {
 
 .contacts-item:nth-child(2):before {
   background-image: url("assets/svg/1.png");
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+ margin-top: 10px;
+  margin-bottom: 10px;
+ color: #ff69b4;
 }
